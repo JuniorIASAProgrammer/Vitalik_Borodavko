@@ -7,6 +7,7 @@ from PageObject.ProductPage import ProductPage
 
 
 path = 'drivers/chromedriver.exe'
+
 USERNAME = "burunduk"
 PASSWORD = "test"
 
